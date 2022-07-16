@@ -1,0 +1,97 @@
+
+[{
+    "category": "Latest",
+    "imageUrl": "coco",
+    "name": "Coco",
+},
+    {
+        "category": "Latest",
+        "imageUrl": "terminator",
+        "name": "Terminator 2: Judgment Day 3D",
+    },
+    {
+        "category": "Latest",
+        "imageUrl": "dunkirk",
+        "name": "Dunkirk",
+    },
+    {
+        "category": "Latest",
+        "imageUrl": "batman",
+        "name": "Batman",
+    },
+    {
+        "category": "Latest",
+        "imageUrl": "joker",
+        "name": "Joker",
+    },
+    {
+        "category": "Latest",
+        "imageUrl": "spider_man",
+        "name": "Spider-Man",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "god_father",
+        "name": "The Godfather (1972)",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "apo",
+        "name": "Apocalypse Now (1979)",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "shawshank",
+        "name": "The Shawshank Redemption",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "network",
+        "name": "Network (1976)",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "birdman",
+        "name": "Birdman",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "life",
+        "name": "Life Is Beautiful (1997)",
+    },
+    {
+        "category": "Favorites",
+        "imageUrl": "lion",
+        "name": "Lion",
+    },
+    {
+        "category": "High Rated",
+        "imageUrl": "star_war",
+        "name": "Star Wars: The Last Jedi",
+    },
+    {
+        "category": "High Rated",
+        "imageUrl": "thor",
+        "name": "Thor: Ragnarok",
+    },
+    {
+        "category": "High Rated",
+        "imageUrl": "blade_runner",
+        "name": "Blade Runner 2049",
+    },
+    {
+        "category": "High Rated",
+        "imageUrl": "borg_mc",
+        "name": "Borg McEnroe",
+    },
+    {
+        "category": "High Rated",
+        "imageUrl": "taxi",
+        "name": "Taxi Driver (1976)",
+    },
+    {
+        "category": "High Rated",
+        "imageUrl": "wonder",
+        "name": "Wonder",
+    }
+]
